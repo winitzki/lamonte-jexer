@@ -1,3 +1,5 @@
+This is a copy of the archived repository https://gitlab.com/AutumnMeowMeow/jexer.git imported on 2023-07-21.
+
 Jexer - Java Text User Interface library
 ========================================
 
